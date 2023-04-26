@@ -1,0 +1,5 @@
+After starting, enter the directory path. Does not take command line args because it seemed like a pain to put it into a usable string.
+
+My main challenge was overthinking and not realizing the path that the function uses as an argument is literally a path that I could use to make nodes. Other problems were mostly dealing with dot syntax.
+
+Because I didn't establish each node, the labels are on the arrows pointing to them instead, so graphs look slightly wonky.
